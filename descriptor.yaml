@@ -1,0 +1,10 @@
+code: nps-conference11-bundle
+description: This is the conference11 bundle
+
+components:
+  plugins:
+    - plugins/conference11-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
